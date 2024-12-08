@@ -1,5 +1,5 @@
 package game2D;
-
+//Hordiienko Yehor CS-22
 import javax.swing.*;
 import java.awt.*;
 
